@@ -1,7 +1,7 @@
 # ![whoisjorge.me](/static/img/mockup.gif)
 
 
-It's my personal portfolio website made with Vue.js <sup>(in development)</sup> 
+It's my personal portfolio website made with Vue.js <sup>(in development)</sup>   
 https://www.whoisjorge.me
 
 ## License
